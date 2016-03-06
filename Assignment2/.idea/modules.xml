@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignment2.iml" filepath="$PROJECT_DIR$/Assignment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maven-Calculator/Maven-Calculator.iml" filepath="$PROJECT_DIR$/Maven-Calculator/Maven-Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maven-Converter/Maven-Converter.iml" filepath="$PROJECT_DIR$/Maven-Converter/Maven-Converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maven-Login/Maven-Login.iml" filepath="$PROJECT_DIR$/Maven-Login/Maven-Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maven-Package/Maven-Package.iml" filepath="$PROJECT_DIR$/Maven-Package/Maven-Package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maven-Shapes/Maven-Shapes.iml" filepath="$PROJECT_DIR$/Maven-Shapes/Maven-Shapes.iml" />
+    </modules>
+  </component>
+</project>
